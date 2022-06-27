@@ -1,5 +1,5 @@
 [General] 
-# CUSTOM BY VIETTER
+# CUSTOM BY DuyHandsome
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, captive.apple.com
 dns-server = https://macos.dns.nextdns.io/da7a34
