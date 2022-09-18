@@ -1,6 +1,6 @@
 
 var DIRECT = "DIRECT";
-var PROXY = "PROXY 113.178.86.55:31797";
+var PROXY = "PROXY 113.178.86.55:45899";
 var keys = ["adguard", "shopee","elsa", "mitm.it", "adguard", "googlevideo", "youtube", "manulife", "revenuecat"];
 function FindProxyForURL(url, host) {
   host = host.toLowerCase();
