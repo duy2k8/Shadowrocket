@@ -1,7 +1,7 @@
 
 var DIRECT = "DIRECT";
 var PROXY = "PROXY 152.70.97.200:9000";
-var keys = ["adguard", "shopee","elsa", "mitm.it", "adguard", "googlevideo", "youtube", "manulife", "revenuecat"];
+var keys = ["nicegram","adguard", "shopee","elsa", "mitm.it", "adguard", "googlevideo", "youtube", "manulife", "revenuecat"];
 function FindProxyForURL(url, host) {
   host = host.toLowerCase();
   for(var i = 0; i < keys.length; i++){
